@@ -1,4 +1,4 @@
-# blockchain
+# Blockchain
 Project for IA2
 Bazaar - Item Listing Sample Application for Azure Blockchain Workbench
 ====================================================
